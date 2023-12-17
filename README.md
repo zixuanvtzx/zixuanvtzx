@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zixuanvtzx
-- 👀 I’m interested in coding using Python, JavaScript, and I am also trying to self learn C++!
+- 👀 Proficient in Python, C++, JavaScript
+- 🌱 Learning... PHP, DJango
 
 <!---
 zixuanvtzx/zixuanvtzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
