@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zixuanvtzx
-- 👀 Proficient in Python, C++, JavaScript
-- 🌱 Learning...
+- 👀 Proficient in Python, C++, HTML, CSS, SQLite, MongoDB
+- 🌱 Learning JavaScript, Tableau
 
 <!---
 zixuanvtzx/zixuanvtzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
