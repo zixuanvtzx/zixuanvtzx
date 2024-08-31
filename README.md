@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zixuanvtzx
-- 👀 Proficient in Python, C++, HTML, CSS, SQLite, MongoDB
+- 👀 Proficient in Python, HTML, CSS, SQLite, MongoDB
 - 🌱 Learning JavaScript, Tableau
 
 <!---
